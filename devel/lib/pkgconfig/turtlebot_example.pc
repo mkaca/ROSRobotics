@@ -1,0 +1,8 @@
+prefix=/home/mike/catkin_ws/devel
+
+Name: turtlebot_example
+Description: Description of turtlebot_example
+Version: 0.0.0
+Cflags: -I/usr/include/eigen3
+Libs: -L/home/mike/catkin_ws/devel/lib 
+Requires: 
